@@ -1,4 +1,4 @@
-# Hi, I'm [Emre] 👋
+# Hi, I'm Emre 👋
 
 Second-year Management Information Systems student at Ostim Technical University In Türkiye.
 I'm building a path toward data analysis and AI.
