@@ -5,7 +5,7 @@ I'm building a path toward data analysis and AI.
 
 ## 🎯 What I'm working on
 
-- Python programming (Harvard CS50P)
+- Python programming (MIT 6.0001)
 - SQL and relational databases (Harvard CS50 SQL)
 - Technical English: writing code, comments and commit messages in English
 - Building small, well-documented data projects
@@ -13,7 +13,7 @@ I'm building a path toward data analysis and AI.
 
 ## 🗺️ My learning roadmap
 
-- [ ] Python — Harvard CS50P
+- [ ] Python — MIT 6.0001
 - [ ] SQL — Harvard CS50 SQL
 - [ ] Data analysis — pandas, NumPy, matplotlib
 - [ ] Statistics & machine learning basics
